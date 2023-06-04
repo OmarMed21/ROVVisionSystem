@@ -1,4 +1,4 @@
-##______________________________________*****************WATCH OUT NIGGER******************____________________________________________
+##__________________________________________*****************WATCH OUT******************________________________________________________
 ## The main Purpose of creating this Library is to facilate the usage of frequent Algorithms and Models to be all in a single place and 
 ## you just need to import the Class and the Function that contains the Model you wanna use and that's all , you don't even need to    
 ## import the images or read'em or even create the cv.waitkey() ,it's all here don't worry :)
